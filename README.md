@@ -1,8 +1,8 @@
 # Login-Form-Design
-<h3>This is a simple and clear responsive Login-Form Design with HTML and CSS </h3>
+<h3>Simple and clear responsive Login-Form Design with HTML and CSS </h3>
 
 
-###SCREENGIF
+### SCREEN GIF
 
 
 ![](login-form.gif)
